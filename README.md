@@ -37,14 +37,6 @@ This repository contains the first two notebooks and sample unstructured files f
 
 ---
 
-## 🧪 Sample Files (for Notebook 2)
-You’ll find the following unstructured sample files under the `sample_docs/` folder:
-- `billing_faq.txt`
-- `product_guide.txt`
-- `technical_faq.txt`
-
----
-
 ## 🛠️ Requirements
 
 - ✅ Databricks Runtime **14.3+** (with Unity Catalog enabled)  
