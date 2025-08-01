@@ -1,0 +1,25 @@
+# Technical Support FAQ - TechCorp
+
+## Account Access
+Q: I can't log into my account, what should I do?
+A: First, try resetting your password using the "Forgot Password" link. If that doesn't work, check if your account has been locked due to multiple failed attempts.
+
+## Data Pipeline Issues
+Q: My data pipeline is failing, how do I troubleshoot?
+A: Check the pipeline logs in your dashboard. Common issues include: insufficient permissions, data format mismatches, or network connectivity problems.
+
+## Performance Issues
+Q: Why is my query running slowly?
+A: Slow queries can be caused by: large dataset size, missing indexes, inefficient query structure, or resource constraints. Try optimizing your query or upgrading your plan.
+
+## API Errors
+Q: I'm getting API timeout errors, what's wrong?
+A: API timeouts typically occur with large data requests. Try breaking your request into smaller chunks or implementing pagination.
+
+## Data Integration
+Q: How do I connect to AWS S3?
+A: Use your AWS access keys in our integration settings. Ensure your S3 bucket has the correct permissions set for our service principal.
+
+## Security
+Q: How do I set up two-factor authentication?
+A: Go to Security Settings in your account dashboard, click "Enable 2FA", and follow the setup wizard using your preferred authenticator app.
