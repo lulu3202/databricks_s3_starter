@@ -1,6 +1,6 @@
 # 🔍 Smart Customer Support Knowledge Base (Notebook 1 & 2)
 
-This repository contains the first two notebooks and sample unstructured files for the **Smart Customer Support Analytics** project using **Databricks** and **AWS**.
+This repository contains the first two notebooks and sample structured and unstructured files for the **Smart Customer Support Analytics** project using **Databricks** and **AWS**.
 
 ---
 
@@ -22,7 +22,7 @@ This repository contains the first two notebooks and sample unstructured files f
 
 **Goal**: Prepare unstructured knowledge base for semantic search and RAG (Retrieval-Augmented Generation)
 
-**Data Sources**: Text documents (FAQs, guides, troubleshooting docs)
+**Data Sources**: Text documents - billing faq, product guide and technical faq under samples (FAQs, guides, troubleshooting docs)
 
 ### ✅ Steps:
 - Load `.txt` files from S3  
